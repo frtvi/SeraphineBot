@@ -1,0 +1,2 @@
+# SeraphineBot
+Discord bot
