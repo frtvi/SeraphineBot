@@ -23,7 +23,7 @@ Configuração Inicial: Depois de adicionar o bot ao servidor, certifique-se de 
 
 Comandos: Use os comandos mencionados acima para controlar o bot. Use /ajuda para obter informações detalhadas sobre como usar cada comando.
 
-(Para usar o bot Seraphine é necessário contatar o desenvolvedor)
+(Para usar o bot Seraphine é necessário contatar o desenvolvedor)<br>
 (Para hospedagem 24/7 sugiro o squarecloud)
 
 # Nota Legal
