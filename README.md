@@ -24,7 +24,9 @@ Configuração Inicial: Depois de adicionar o bot ao servidor, certifique-se de 
 Comandos: Use os comandos mencionados acima para controlar o bot. Use /ajuda para obter informações detalhadas sobre como usar cada comando.
 
 (Para usar o bot Seraphine é necessário contatar o desenvolvedor)<br>
-(Para hospedagem 24/7 sugiro o squarecloud)
+(Para hospedagem 24/7 sugiro o squarecloud)<br>
+<br>
+Quando o bot adiciona a música mas não toca, por favor verifique no console se há um erro de acesso negado. (Excluir o cache deve resolver)
 
 # Nota Legal
 Este bot foi criado por um fã e não está afiliado, endossado, patrocinado ou aprovado de forma alguma pela Riot Games, desenvolvedora do League of Legends, ou por qualquer outra entidade relacionada.
