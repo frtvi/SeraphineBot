@@ -1,4 +1,4 @@
-
+# DESCONTINUADO
 # SeraphineBot - Bot do Discord Inspirado na Personagem Seraphine do League of Legends
 
 O SeraphineBot é um bot do Discord projetado para tocar música do YouTube, com uma inspiração na personagem Seraphine do famoso jogo League of Legends. Ele permite que os usuários reproduzam músicas diretamente de vídeos do YouTube em um canal de voz no Discord. Aqui está um guia rápido para começar a usar o bot:
